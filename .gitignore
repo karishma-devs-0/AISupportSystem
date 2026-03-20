@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+*.db
+*.sqlite
+.venv/
+venv/
+chroma_db/
+.streamlit/
+*.log
+.DS_Store
+
+# Generated data
+support_tickets.csv
+knowledge_base.pkl
+
+# Node modules
+node_modules/
+frontend/node_modules/
+frontend/package-lock.json
+frontend/dist/
+
+# Build outputs
+dist/
+build/
